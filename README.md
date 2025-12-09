@@ -1,1 +1,1 @@
-#Smart-task!
+#Smart-task
